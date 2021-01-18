@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Folder/Lab3.hpp
+string
+-
+iostream
+-
+cstdlib
+-
+fstream
+-
+cstring
+-
+cstdio
+-
+vector
+-
+exception
+-
+
+C:/Users/aleks/Desktop/Lab3/src/Menu.cpp
+Folder/Lab3.hpp
+-
+
